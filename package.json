@@ -1,0 +1,22 @@
+{
+  "name": "jogo-blocos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItalianFanBoy/Jogo-Blocos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItalianFanBoy/Jogo-Blocos/issues"
+  },
+  "homepage": "https://github.com/ItalianFanBoy/Jogo-Blocos#readme",
+  "dependencies": {
+    "node-typescript": "^0.1.3"
+  }
+}
